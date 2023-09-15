@@ -9,8 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBOutlet var views: [UIView]!
-    
+    var radius = 25.0 // Magic number
     func getUniqueColors() -> Set<UIColor>{
+        // Массив различных цветов
         var set = Set<UIColor>()
         while set.count < views.count {
             set.insert(
@@ -25,16 +26,16 @@ class ViewController: UIViewController {
         return set
     }
     
-    func setColors(){
+    func setColors(){ // Меняет цвета
         var set = getUniqueColors()
         for view in self.views{
             view.backgroundColor = set.popFirst()
         }
     }
     
-    func setCorners(){
+    func setCorners(){ // Меняет углы
         for view in self.views{
-        view.layer.cornerRadius = .random(in: 0...25)
+            view.layer.cornerRadius = CGFloat.random(in: 0...self.radius)
         }
     }
     
