@@ -1,5 +1,6 @@
 WishApp - Приложение на ios, исполнитель желаний
 
+![Home](https://github.com/fkfkya/ios/raw/main/image/home.png)
 ![Home](https://github.com/fkfkya/ios/blob/main/images/home.png)
 ![Color picker](https://github.com/fkfkya/ios/blob/main/images/colorPicker.png)
 ![My wishes](https://github.com/fkfkya/ios/blob/main/images/wishes.png)
