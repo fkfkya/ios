@@ -1,9 +1,10 @@
-# WishApp - Приложение на ios, исполнитель желаний
+WishApp - Приложение на ios, исполнитель желаний
 
-    ![Home](https://github.com/fkfkya/ios/blob/main/images/home.png)
-    ![Color picker](https://github.com/fkfkya/ios/blob/main/images/colorPicker.png)
-    ![My wishes](https://github.com/fkfkya/ios/blob/main/images/wishes.png)
-    ![Events](https://github.com/fkfkya/ios/blob/main/images/events.png)
+![Home](https://github.com/fkfkya/ios/blob/main/images/home.png)
+![Color picker](https://github.com/fkfkya/ios/blob/main/images/colorPicker.png)
+![My wishes](https://github.com/fkfkya/ios/blob/main/images/wishes.png)
+![Events](https://github.com/fkfkya/ios/blob/main/images/events.png)
+
 ## Random color  
   Случайный цвет фона
 ## Switches 
