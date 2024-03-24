@@ -1,10 +1,10 @@
 # WishApp - Приложение на ios, исполнитель желаний
-    <div align="center">
+
+<div align="center">
+  <img src="https://github.com/fkfkya/ios/blob/main/images/home.png" width="300"> 
   <img src="https://github.com/fkfkya/ios/blob/main/images/colorPicker.png" width="300"> 
-  <img src="https://github.com/fkfkya/ios/blob/main/images/colorPicker.png" width="300"> 
-  <img src="https://github.com/fkfkya/ios/blob/main/images/colorPicker.png" width="300"> 
-  <img src="https://github.com/fkfkya/ios/blob/main/images/colorPicker.png" width="300"> 
-  <img src="https://github.com/fkfkya/ios/blob/main/images/colorPicker.png" width="300"> 
+  <img src="https://github.com/fkfkya/ios/blob/main/images/wishes.png" width="300"> 
+  <img src="https://github.com/fkfkya/ios/blob/main/images/events.png" width="300"> 
 </div>
 ## Random color  
   Случайный цвет фона
