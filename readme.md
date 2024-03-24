@@ -1,4 +1,4 @@
-# WishApp - Приложение на ios, исполнитель желаний
+# WishApp - приложение исполнитель желаний на iOS
 
 <div align="center">
   <img src="https://github.com/fkfkya/ios/blob/main/images/home.png" width="300"> 
